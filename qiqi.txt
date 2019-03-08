@@ -1,1 +1,2 @@
-Hellow world
+Git is a distributed version control systeml.
+Hi xielangqi
