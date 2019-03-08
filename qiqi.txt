@@ -2,4 +2,4 @@ Git is a distributed version control systeml.
 Hi xielangqi
 beisen
 beisen@cn
-liao xuefeng 2222
+liao xuefeng 2222 quick and simple
